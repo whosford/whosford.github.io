@@ -112,7 +112,7 @@ This file contains the common styles of this theme.
 body {
   line-height: 1.7;
   color: #777777;
-  font-size: 13px;
+  font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   background-color: #fff;
   background-attachment: fixed;
@@ -265,9 +265,9 @@ form {
   padding-left: 0;
 }
 .breadcrumb > li + li::before {
-  content: "\f22d";
+  content: "/ ";
   font-family: fontawesome;
-  font-size: 9px;
+  font-size: 14px;
 }
 .breadcrumb li.active {
   color: #111111;
