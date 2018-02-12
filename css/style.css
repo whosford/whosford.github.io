@@ -2099,7 +2099,7 @@ section > .container-fluid {
 .boxed-layout .main-content,
 .boxed-layout .footer {
   margin: 0 auto;
-  max-width: 1100px;
+/*  max-width: 1100px;*/
 }
 .boxed-layout .header,
 .boxed-layout section,
