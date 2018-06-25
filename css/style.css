@@ -118,12 +118,12 @@ body {
   background-attachment: fixed;
 }
 a {
-  color: #999999;
+  color: #03138f;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #737373;
+  color: #333333;
   text-decoration: none;
 }
 a img {
@@ -958,7 +958,7 @@ ul.list.list-white li a {
 }
 .list-icon li i {
   color: #555555;
-  font-size: 14px;
+  font-size: 10px;
   height: 28px;
   line-height: 28px;
   margin: 5px 10px 5px 0;
@@ -6355,27 +6355,27 @@ blockquote p {
   font-size: 13px;
 }
 .panel-group .panel-title a {
-  background: #eeeeee;
+  background-color: #00a3c8 !important;
   display: block;
   font-size: 14px;
   padding: 10px 15px 10px 48px;
   white-space: normal;
+  color: #fff;
 }
 .panel-group .panel-title a.active {
-  background: #f1f1f1 none repeat scroll 0 0 !important;
+  background: #00a3c8 none repeat scroll 0 0 !important;
   border-bottom: 1px solid #d3d3d3 !important;
-  color: #111111;
+  color: #fff;
 }
 .panel-group .panel-title a.active .open-sub:after {
   display: none;
 }
 .panel-group .panel-title a.active::after {
   color: #fff;
-  background: #e3e3e3 !important;
+  background: #00a3c8 !important;
   content: "\f068";
 }
 .panel-group .panel-title a::after {
-  color: #777777;
   content: "\f067";
   font-family: fontawesome;
   font-size: 14px;
